@@ -58,7 +58,7 @@ const rpcStates = [
     {
         type: 'STREAMING',
         name: 'Coding Adventures',
-        details: '! Anshi 🥀',
+        details: '! Kaizen 🥀',
         state: 'Mxybe a Coder?',
         url: 'https://www.twitch.tv/Syntax',
         timestamps: {
@@ -77,14 +77,14 @@ const rpcStates = [
     },
     {
         type: 'WATCHING',
-        name: '! Mxbye Slime🥀',
+        name: '! Mxbye Him🥀',
         details: '! Unrivaled..!? 🥀',
         state: 'Typee shii..!?',
         timestamps: {
             start: Date.now()
         },
         assets: {
-            largeImage: 'https://cdn.discordapp.com/emojis/1418038816870236321.jpg?size=96',
+            largeImage: 'https://cdn.discordapp.com/attachments/860177535010603028/1284675789476073567/a_d44da9bccd8db5b753305831704ec8f7.gif?ex=69c1de10&is=69c08c90&hm=83adab460b09e7b89591b8e72a28add4519b9805af2d6d4f2ab827dce51f168d&',
             largeText: 'Ez Asf..!?',
             smallImage: 'https://cdn.discordapp.com/emojis/1347481472826609685.gif?size=96',
             smallText: 'Damn..!?'
