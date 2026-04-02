@@ -84,8 +84,8 @@ const rpcStates = [
             start: Date.now()
         },
         assets: {
-            largeImage: 'https://cdn.discordapp.com/attachments/860177535010603028/1284675789476073567/a_d44da9bccd8db5b753305831704ec8f7.gif?ex=69c1de10&is=69c08c90&hm=83adab460b09e7b89591b8e72a28add4519b9805af2d6d4f2ab827dce51f168d&',
-            largeText: 'Ez Asf..!?',
+            largeImage: 'https://cdn.discordapp.com/emojis/1489177819320680608.gif?size=96',
+            largeText: 'Masti..!?',
             smallImage: 'https://cdn.discordapp.com/emojis/1347481472826609685.gif?size=96',
             smallText: 'Damn..!?'
         },
