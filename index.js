@@ -58,7 +58,7 @@ const rpcStates = [
     {
         type: 'STREAMING',
         name: 'Coding Adventures',
-        details: '! Her 🥀',
+        details: '! Kaizen🥀',
         state: 'Mxybe a Coder?',
         url: 'https://www.twitch.tv/Syntax',
         timestamps: {
@@ -77,7 +77,7 @@ const rpcStates = [
     },
     {
         type: 'WATCHING',
-        name: '! Mxbye Anshi🥀',
+        name: '! Mxbye Arjun🥀',
         details: '! Unrivaled..!? 🥀',
         state: 'Typee shii..!?',
         timestamps: {
