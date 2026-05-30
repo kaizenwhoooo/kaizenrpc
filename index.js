@@ -84,10 +84,10 @@ const rpcStates = [
             start: Date.now()
         },
         assets: {
-            largeImage: 'https://cdn.discordapp.com/emojis/1489177819320680608.gif?size=96',
+            largeImage: 'https://cdn.discordapp.com/emojis/1510225908189892628.gif?size=96',
             largeText: 'Ilhsm',
             smallImage: 'https://cdn.discordapp.com/emojis/1347481472826609685.gif?size=96',
-            smallText: 'Damn..!?'
+            smallText: '..!?'
         },
         buttons: [
             { label: 'Ownz..?', url: 'https://discord.gg/simps' },
