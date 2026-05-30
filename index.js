@@ -77,15 +77,15 @@ const rpcStates = [
     },
     {
         type: 'WATCHING',
-        name: '! Mxbye Arjun🥀',
-        details: '! Unrivaled..!? 🥀',
-        state: 'Typee shii..!?',
+        name: 'Somu<3 🥰',
+        details: 'Her>> 🌼',
+        state: 'Heheheh<3',
         timestamps: {
             start: Date.now()
         },
         assets: {
             largeImage: 'https://cdn.discordapp.com/emojis/1489177819320680608.gif?size=96',
-            largeText: 'Masti..!?',
+            largeText: 'Ilhsm',
             smallImage: 'https://cdn.discordapp.com/emojis/1347481472826609685.gif?size=96',
             smallText: 'Damn..!?'
         },
