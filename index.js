@@ -58,7 +58,7 @@ const rpcStates = [
     {
         type: 'STREAMING',
         name: 'Coding Adventures',
-        details: '! Kaizen🥀',
+        details: '! Anshi🥀',
         state: 'Mxybe a Coder?',
         url: 'https://www.twitch.tv/Syntax',
         timestamps: {
@@ -77,8 +77,8 @@ const rpcStates = [
     },
     {
         type: 'WATCHING',
-        name: 'Somu<3 🥰',
-        details: 'Her>> 🌼',
+        name: '<3 🥰',
+        details: '🌼',
         state: 'Heheheh<3',
         timestamps: {
             start: Date.now()
